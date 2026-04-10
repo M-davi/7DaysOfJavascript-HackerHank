@@ -6,14 +6,14 @@ switch (num){
     console.log('TWO');
     break;
   case 3:
-    console.log('TREE');
-    brak;
+    console.log('THREE');
+    break;
   case 4:
     console.log('FOUR');
     break;
   case 5:
     console.log('FIVE');
-    brak;
+    break;
   case 6:
     console.log('SIX');
     break;
@@ -21,11 +21,11 @@ switch (num){
     console.log('SEVEN');
     break;
   case 8:
-    console.log('EIGTH');
-    brak;
+    console.log('EIGHT');
+    break;
   case 9:
     console.log('NINE');
-    brak;
+    break;
   default:
     console.log('PLEASE TRY AGAIN');
     break;
